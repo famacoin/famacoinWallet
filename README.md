@@ -1,5 +1,6 @@
-# fmcwallet
-fmcwallet is a test wallet, in progress ...
+# famacoinWallet
+famacoinWallet is a browser's test wallet, in progress ...
+
 
 # License
 This project is licensed under the MIT license, Copyright (c) 2016 famacoin. For more information see LICENSE.md
