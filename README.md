@@ -14,7 +14,7 @@ fW only does four basic things:
 
 # Security
 
-Please note that fW is in progress and it is not recommended to use it with real Ether. fW has not been through a comprehensive security review at this point. It is still experimental software, intended for small amounts of Ether and the only interaction with FamaCoin smart contracts on the Ethereum blockchain. Do not expect anything else from fW yet.
+Please note that fW is in progress and it is not recommended to use it with real Ether. fW has not been through a comprehensive security review at this point. It is still experimental software, intended for small amounts of Ether and the only interaction with FamaCoin smart contract on the Ethereum blockchain. Do not expect anything else from fW yet.
 
 fW does not store private keys anywhere. But you must be cautious when using private keys to interact with the FamaCoin smart contract when you are both closing an auction or making a bid.
  
