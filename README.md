@@ -4,7 +4,7 @@ You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can 
 
 # About Use
 
-fW is using the basic infura web3 provider and web3.min.js module, to make interactions with FamaCoin smart contract on the Ethereum blockchain. Thus, famacoinWallet cannot be used to perform offline FamaCoin transactions or any other interaction with the FamaCoin smart contract.
+fW is using the basic infura web3 provider and web3.min.js module, to make interactions with FamaCoin smart contract on the Ethereum blockchain. Thus, famacoinWallet cannot be used to perform offline FamaCoin transactions or any other offline active interaction with the FamaCoin smart contract.
 
 fW only does four basic things:
 1. Check balances of Ether and FamaCoin. Balances appear automatically when an Ethereum public address is added using the "choose address with public key" option or "choose address with private key" option.
