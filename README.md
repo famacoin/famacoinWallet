@@ -19,7 +19,7 @@ The last three options require using the private key, so you must proceed with c
 
 Please note that fW is in progress now so you must not use real Ether account yet. fW has not been through a comprehensive security review at this point. It is still experimental software, intended for small amounts of Ether and the only interaction with FamaCoin smart contract on the Ethereum blockchain. Do not expect anything else from fW yet.
 
-fW does not store private keys anywhere. But you must be cautious when using private keys to interact with the FamaCoin smart contract when you are both transfering FamaCoin, closing an auction or making a bid.
+fW does not store private keys anywhere. But you must be cautious while using private keys to interact with the FamaCoin smart contract when you are both transfering FamaCoin, closing an auction or making a bid.
  
 # License
 This project is licensed under the MIT license, Copyright (c) 2016 FamaCoin, famacoin.org. For more detail see LICENSE.md
