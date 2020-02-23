@@ -10,7 +10,7 @@ fW only does four basic things:
 1. Check balances of Ether and FamaCoin. Balances appear automatically when an Ethereum public address is added using the "choose address with public key" option or "choose address with private key" option.
 2. Transfer FamaCoin from a wallet to another using the "fmc transfer..." option.
 3. Close an auction using the "close auction..." option.
-4. Make a bid using the "make a bid..." option.
+4. Make a bid using the "make a bid..." option. 
 The last three options require using the private key, so you must proceed with care.
 
 # About Security
