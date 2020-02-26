@@ -1,6 +1,9 @@
 # About famacoinWallet
+
 famacoinWallet (fW) is a minimal browser application wholly devoted to FamaCoin transactions. It is in progress now ...
-You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts and run locally this browser application from the ~/famacoinwallet/ local folder.
+You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts, unzip them and run locally this browser application from the ~/famacoinWallet-master/index.html local folder. If you 
+
+
 
 # About Use
 
