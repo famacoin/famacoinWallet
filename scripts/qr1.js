@@ -1,5 +1,3 @@
-//este código se activa en el qrcode.html
-//qrcode.html es una ventania que se abre al tocar el address, para mostrar el código QR de dicha address
 var qrcode = new QRCode("qrcode");
 var rawaddresFromlocalStorage = JSON.parse(localStorage.getItem("rawaddress"));
 var elText = rawaddresFromlocalStorage;
