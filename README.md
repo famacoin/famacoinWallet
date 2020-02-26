@@ -1,19 +1,19 @@
 # About famacoinWallet
 
 famacoinWallet (fW) is a minimal browser application wholly devoted to FamaCoin transactions. It is in progress now ...
-You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts, unzip them and run locally this browser application from the ~/famacoinWallet-master/index.html local folder. If you 
+You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts, unzip them and run locally this browser application from the ~/famacoinWallet-master/index.html local folder. If you download the wallet, before running it you must edit the index.html file and place your own infura key where it says '"put_hear_your_infura_key', into web3 infura provider row.
 
-
+fW is using the basic infura web3 provider, and web3.min.js, jquery-3.4.1.min.js, ethereumjs-tx-1.3.3.min.js and famacoin.min.js modules, to make interactions with FamaCoin smart contract on the Ethereum blockchain.In addition, it is using the qrcode.min.js module to generate the QR code of the public address.
 
 # About Use
 
-fW is using the basic infura web3 provider and web3.min.js module, to make interactions with FamaCoin smart contract on the Ethereum blockchain. Thus, famacoinWallet cannot be used to perform offline FamaCoin transactions or any other offline active interaction with the FamaCoin smart contract.
+famacoinWallet cannot be used to perform offline fmc transactions or any other offline active interaction with the FamaCoin smart contract.
 
 fW only does four basic things:
 
 1. Check balances of Ether and FamaCoin. Balances appear automatically when an Ethereum public address is added using the "choose address with public key" option or "choose address with private key" option.
-2. Transfer FamaCoin from a wallet to another using the "fmc transfer..." option.
-3. Close an auction using the "close auction..." option.
+2. Transfer fmc from a wallet to another using the "fmc transfer..." option.
+3. Close and open an auction using the "close auction..." option.
 4. Make a bid using the "make a bid..." option.
 
 The last three options require using the private key, so you must proceed with care.
