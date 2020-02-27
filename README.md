@@ -1,7 +1,7 @@
 # About famacoinWallet
 
 famacoinWallet (fW) is a minimal browser application wholly devoted to FamaCoin transactions. It is in progress now ...
-You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts, unzip them and run locally this browser application from the ~/famacoinWallet-master/index.html local folder. If you download the wallet, before running it you must edit the index.html file and place your own infura key where it says '"put_your_infura_code_here', into web3 infura provider row.
+You can run famacoinWallet from https://famacoin.org/famacoinwallet/ or you can download all scripts, unzip them and run locally this browser application from the ~/famacoinWallet-master/index.html local folder. If you download the wallet, before running it you must edit the index.html file and place your <a hreff="https://infura.io/">own infura key </a>where it says '"put_your_infura_code_here', into web3 infura provider row.
 
 fW is using the basic infura web3 provider, and web3.min.js, jquery-3.4.1.min.js, ethereumjs-tx-1.3.3.min.js and famacoin.min.js modules, to make interactions with FamaCoin smart contract on the Ethereum blockchain.In addition, it is using the qrcode.min.js module to generate the QR code of the public address.
 
